@@ -9,14 +9,14 @@ pygments: false
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : 莲城笔记
-tagline: 生活、文艺与技术随笔
+title : 沙漠的博客
+tagline: 不要放弃追求.不要停.
 author :
-  name : 七弦
-  email : lcm.hust@gmail.com
-  github : joshualeung
-  twitter : szjoshua
-  facebook : jcleung
+  name : 沙漠
+  email : sha_moon@126.com
+  github : shamoon-cn
+  twitter : 李应
+  facebook : 李应
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
 # Most places will/should use BASE_PATH to make the urls
@@ -25,7 +25,7 @@ author :
 # Else if you are pushing to username.github.com, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://shamoon-cn.github.com
+production_url : http://shamoon-cn.github.com/qd
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
