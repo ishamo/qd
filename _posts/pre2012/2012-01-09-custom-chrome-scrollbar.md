@@ -2,10 +2,9 @@
 layout: post
 title: "自定义Chrome滚动条样式"
 description: ""
-category: Web
+category: 软件
 tags: [Chrome]
 ---
-{% include JB/setup %}
 
 有不少可以帮你修改Chrome默认滚动条样式的扩展，Scroll Bar X就是其中的佼佼者，但是这个扩展在安装的时候提示说会存取所有的网站数据，这就让人感觉很难以接受了。其实咱们可以自己动手，丰衣足食。首先在自己的系统里找到如下这个.css文件：
 

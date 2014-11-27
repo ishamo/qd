@@ -2,10 +2,9 @@
 layout: post
 title: "Jekyll中的日期格式化"
 description: ""
-category: Web
+category: 博客
 tags: [Jekyll, Liquid, Blogging]
 ---
-{% include JB/setup %}
 
 Jekyll uses Liquid for its template language. It’s worth reading over the Liquid for designers page to get a basic understanding of what’s available. The specific reference for date manipulation can be found here: Liquid date formatting.
 To do the specific output you are looking for (e.g. “12 September 2011”), you would change your initial “05-04-2012” to:

@@ -2,10 +2,9 @@
 layout: post
 title: "博客又换主题拉"
 description: ""
-category: 
+category: 博客
 tags: [Jekyll, Theme]
 ---
-{% include JB/setup %}
 
 自从套上了Mark Reid的Jekyll主题之后，总以为没有期望中的那般优雅。特别是页面导航区的文字，每每觉得格外突兀。也许是字体的关系吧，中西文字体好比黄白种人，虽各自美丽，如果不顾自身因素去穿对方的尺码，有如东施效颦。
 

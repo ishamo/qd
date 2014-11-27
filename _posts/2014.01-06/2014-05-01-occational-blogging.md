@@ -2,11 +2,9 @@
 layout: post
 title: 归博偶书
 date: 2014-05-01 16:57:00
-category: Blogging
+category: 感慨
 tags: Jekyll
 ---
-{% include JB/setup %}
-
 
 不觉之间，博客又荒废已久。前阵子突然发现主题中的背景素材链接已经失效，一时变得丑陋不堪，于是紧急修改了样式。然而诸多页面中的字体异常，拖到今天才修复。
 

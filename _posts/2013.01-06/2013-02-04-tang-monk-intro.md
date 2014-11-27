@@ -2,10 +2,9 @@
 layout: post
 title: "tang-monk: 提取C++源码中的依赖文件"
 description: ""
-category: OpenSource
+category: 编程
 tags: [C++, Github]
 ---
-{% include JB/setup %}
 
 在日常代码阅读中，经常需要从庞大的开源项目中提取感兴趣的文件编译一些Demo。然而，典型的情况下，一个普通的C++源文件通常都引用了许多其他的头文件，这些头文件本身可能很分散，甚至在不同位置和层次的目录结构中。tang-monk便是致力解决此类烦恼的开源项目，没错，它的名字就是唐僧。
 

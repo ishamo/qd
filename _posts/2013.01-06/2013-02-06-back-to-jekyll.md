@@ -2,10 +2,9 @@
 layout: post
 title: "选择Github Pages + Jekyll的理由"
 description: ""
-category: web
+category: 博客
 tags: [杂记, Github]
 ---
-{% include JB/setup %}
 
 进入二十一世纪第二个十年，互联网的发展态势依然迅猛。对于我们这些80后的IT从业者来说，网络信息量的持续爆炸式增长与有限的脑细胞容量使得个人知识的存储与处理成为了很严重的问题：刚刚申请的帐号密码转眼便已遗忘，零散的笔记文章与收藏遍布各大博客网站然而大都不会再看一眼，多年前的博文因服务关闭而永久消匿，……
 

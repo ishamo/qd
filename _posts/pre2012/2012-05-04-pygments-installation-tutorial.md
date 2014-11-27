@@ -2,10 +2,9 @@
 layout: post
 title: "Pygments安装教程"
 description: ""
-category: Web
+category: 博客
 tags: [Jekyll, Pygments]
 ---
-{% include JB/setup %}
 
 在Windows环境下安装Pygments
 

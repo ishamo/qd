@@ -2,10 +2,9 @@
 layout: post
 title: "Jekyll使用笔记"
 description: ""
-category: Web
+category: 博客
 tags: [Jekyll, Blogging]
 ---
-{% include JB/setup %}
 
 关于Jekyll的介绍，请猛击[这里](http://jekyllbootstrap.com/)
 

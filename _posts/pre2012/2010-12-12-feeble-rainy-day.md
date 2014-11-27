@@ -2,10 +2,9 @@
 layout: post
 title: "无力的雨天"
 description: ""
-category: Poem
+category: 诗词
 tags: [诗词]
 ---
-{% include JB/setup %}
 淅沥的雨，昏暗的早晨忘了时间，忘了所有其他。
 
 似梦还是非梦，如入幻虚仙境。

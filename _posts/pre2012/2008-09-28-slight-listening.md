@@ -2,10 +2,9 @@
 layout: post
 title: "浅听"
 description: ""
-category: Poem
+category: 诗词
 tags: [诗词]
 ---
-{% include JB/setup %}
 
 耳朵是一扇窗.
 窗外

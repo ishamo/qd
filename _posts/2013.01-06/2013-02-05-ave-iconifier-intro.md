@@ -2,10 +2,9 @@
 layout: post
 title: "ICO与PNG格式互换工具：AveIconifier"
 description: ""
-category: Toolkit
+category: 软件
 tags: [图标]
 ---
-{% include JB/setup %}
 
 日常开发过程中，常常需要使用到ICO与PNG格式的图标，两者间的互相转换也难以避免。AveIconifier倒是专门用于此用途的小工具。
 

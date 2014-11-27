@@ -2,10 +2,9 @@
 layout: post
 title: "微软平板Surface试用手记"
 description: ""
-category: Digital
+category: 生活
 tags: [微软, 数码]
 ---
-{% include JB/setup %}
 
 
 今天闲来无事，去苏宁体验了传说中的Surface。满街的江南Style也无法阻挡我迫切一睹Surface芳容的匆忙脚步。总的来说，库克和鲍尔默对彼此产品的评价都很中肯：与iPad的娱乐性相比，Surface显得格外上流，但不幸的是，它的确还有许多没做好的地方。

@@ -2,10 +2,9 @@
 layout: post
 title: "人之本性与偶像坠落"
 description: ""
-category: Gossip
+category: 感慨
 tags: [杂谈]
 ---
-{% include JB/setup %}
 
 余少时每观影剧，必问左右曰：“彼乃恶人乎？”或答：“然”，则暗咒之。而每逢英雄命短，好事被磨，亦顿足叹息。或言此乃爱憎分明也，夫好人者，必以善终，恶人者，当以恶报，岂非天常乎？
 

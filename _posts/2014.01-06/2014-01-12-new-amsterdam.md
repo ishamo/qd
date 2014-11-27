@@ -2,10 +2,10 @@
 layout: post
 title: New Amsterdam
 date: 2014-01-12 16:57:00
-category: Rock
+category: 音乐
 tags: Travis
 ---
-{% include JB/setup %}
+
 *New Amsterdam* 是著名摇滚乐队Travis的一首非常好听的歌曲。光看名字，几乎也可以引起我无限的美好想象。因为人们总是很容易由此联想到荷兰的黄金时代。
 
 事实上，这首歌的歌词的确是充满了诗意:

@@ -2,10 +2,9 @@
 layout: post
 title: "赠张永峰"
 description: ""
-category: Poem
+category: 诗词
 tags: [诗词]
 ---
-{% include JB/setup %}
 
 南风过，海棠落。连宵慵困韶华却。
 珞珈水，醉晚乐，相逢无凭，笑饮轻酌。

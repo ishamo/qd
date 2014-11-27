@@ -2,10 +2,9 @@
 layout: post
 title: "二月泥泞"
 description: ""
-category: Poem
+category: 诗词
 tags: [诗词]
 ---
-{% include JB/setup %}
 潮湿与惯性失落
 
 晴朗与留恋

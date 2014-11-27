@@ -2,10 +2,9 @@
 layout: post
 title: "春望"
 description: ""
-category: Poem
+category: 诗词
 tags: [诗词]
 ---
-{% include JB/setup %}
 
 春去卷残红，袖减畏夏还。
 

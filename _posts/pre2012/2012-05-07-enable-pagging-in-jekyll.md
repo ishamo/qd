@@ -2,10 +2,9 @@
 layout: post
 title: "在Jekyll中使用分页功能"
 description: ""
-category: Web
+category: 博客
 tags: [Jekyll, Blogging]
 ---
-{% include JB/setup %}
 
 Jekyll默认支持分页功能，然而仅支持在html文件中使用，而不支持markdown。您可以通过以下步骤为你的博客添加分页功能：
 

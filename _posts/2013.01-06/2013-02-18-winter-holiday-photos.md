@@ -2,10 +2,9 @@
 layout: post
 title: "蛇年春节部分照片"
 description: ""
-category: Web
+category: 生活
 tags: [照片, 摄影, 春节]
 ---
-{% include JB/setup %}
 
 ![Snow](http://pic.yupoo.com/24plus/CEq3aJSH/medish.jpg)
 

@@ -2,10 +2,9 @@
 layout: post
 title: "记梦：等待"
 description: ""
-category: Essay
+category: 诗词
 tags: [杂记]
 ---
-{% include JB/setup %}
 阴霾的五月，雨后的绿色迷漫，我依依不舍地离开。
 绿叶红墙，林荫道下，人烟怠尽。举起黑漆相机，来不及按下快门，身体已经飘远。
 我已久久等待，而你迟迟不来。故事已经改写，往事如边草成衰。
