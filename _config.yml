@@ -1,4 +1,4 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
+﻿# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 permalink: /:year/:month/:day/:title.html
 paginate: 10 # pagination based on number of posts
 paginate_path: "page:num"
@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 沙漠的博客
+      title: 沙漠旅人
 
 description: 一个人的世界
 # gavatar头像及Favicon
