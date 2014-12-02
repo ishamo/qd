@@ -14,7 +14,7 @@ defaults:
     values:
       title: 沙漠的博客
 
-description: 生活、文艺与梦想
+description: 一个人的世界
 # gavatar头像及Favicon
 gavatar: http://shamospace.qiniudn.com/logo.png
 favicon: http://pic.yupoo.com/24plus/E2O4V5oL/medium.jpg
