@@ -21,13 +21,13 @@ favicon: http://pic.yupoo.com/24plus/E2O4V5oL/medium.jpg
 
 author:
   name: 沙漠
-  email: sha_moon@126.com
+  email: qd@ishamo.cn
   github: shamoon-cn
   twitter: sha_moon_t
   pinterest: shamoon-cn
   linkedin: shamoon-cn
   bio: 万古长空,一朝风月.
-  email_md5: e66115ce70653bc31afcdad239dcc3f0
+  email_md5: 605a7fa05602b87b804e3bb51f8ac46f
 
 rss_path: feed.xml
 categories_path: categories.html
