@@ -18,7 +18,7 @@ tags: apue
    
    cp apue.3e/lib/libapue.a /usr/lib /usr/local/lib
 
-5. 最后经编译的时候加上-lapue:gcc myls.c -o myls -lapue
+5. 最后经编译的时候加上-lapue:`gcc myls.c -o myls -lapue`
 
 
 
