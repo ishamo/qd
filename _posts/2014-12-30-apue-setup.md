@@ -13,7 +13,9 @@ tags: apue
 3. （以下需要root权限）make
 
 4. cp apue.3e/include/apue.h /usr/include
+   
    cp apue.3e/lib/error.c /usr/include
+   
    cp apue.3e/lib/libapue.a /usr/lib /usr/local/lib
 
 5. 最后经编译的时候加上-lapue:gcc myls.c -o myls -lapue
