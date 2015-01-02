@@ -16,7 +16,7 @@ tags: 记事
 
 总之，2015年了，这一年注定会发生很多的事情，其实某种程度上，它甚至真的是对各种人生的一次分流，希望大家都好，找到自己心中所想。
 
-![华中科技大学](http://pic.hustonline.net/single/index/_time/1/2882)
+![华中科技大学](http://shamospace.qiniudn.com/hust.jpg)
 
 
 
