@@ -37,3 +37,10 @@ tags: longjmp
 	{
 		longjmp(env_alrm, 1);
 	}
+
+
+![longjmp.png](http://shamospace.qiniudn.com/longjmp.png)
+
+*十多天不写博客，手法生疏的不行啊*
+
+
