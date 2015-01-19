@@ -24,6 +24,7 @@ void siglongjmp(sigjmp_buf env, int val);
 ~~~
 
 给出一个示例：
+
 ~~~~
 #include "apue.h"
 #include <setjmp.h>
@@ -75,7 +76,6 @@ static void sig_alrm(int signo)
 	pr_mask("in sig_alrm: ");
 }
 ~~~~
-
 
 ~~~~~
 #include "apue.h"
