@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 机器学习绪论 
+title: 机器学习结论 
 date:  2015-01-21 19:24:00  
 category: 机器学习  
 tags: ML
@@ -16,11 +16,11 @@ tags: ML
 
 ## 机器学习和其它学科的关系
 
-#### 与数据挖掘（Data Mining)
+### 与数据挖掘（Data Mining)
 
 数据挖掘是ML在数据库方面的应用，当然DM有它相应的方法。
 
-#### 与人工智能（Artificial Intellengence)
+### 与人工智能（Artificial Intellengence)
 
 - 图灵：我们不该以电脑能否思维为目标，而是以能多大程度地模仿人类思维为目标；然后，让设计者再朝着这个目标努力。
 - 等等。。
