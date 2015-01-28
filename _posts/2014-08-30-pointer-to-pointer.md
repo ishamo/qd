@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git里面一些不常用的功能
+title: 为什么要用指针的指针
 date:  2014-08-30 13:22:33   
 category: C++
 tags: Pointer
