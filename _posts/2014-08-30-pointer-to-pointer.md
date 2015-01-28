@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 为什么要用指针的指针
+title: 为什么要用指向指针的指针
 date:  2014-08-30 13:22:33   
 category: C++
 tags: Pointer
