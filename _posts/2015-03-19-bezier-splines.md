@@ -40,7 +40,7 @@ tags: 贝塞尔
 
 ##程序
 
-``````
+~~~~~~
 
 #include <windows.h>
 
@@ -173,7 +173,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT message, WPARAM wParam, LPARAM lParam)
 }
 
 
-``````
+~~~~~~
 
 
 
