@@ -12,9 +12,9 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 流不尽的泪
+      title: 世情如霜
 
-description: 一个人的世界
+description: a persional blog, about persional writing.
 # gavatar头像及Favicon
 gavatar: http://shamospace.qiniudn.com/logo.png
 favicon: http://pic.yupoo.com/24plus/E2O4V5oL/medium.jpg
@@ -26,7 +26,7 @@ author:
   twitter: sha_moon_t
   pinterest: shamoon-cn
   linkedin: shamoon-cn
-  bio: 学艺不精被腾讯鄙视了， 大受打击，闭关四个月。
+  bio: 了了断圆了谎莫道当时已惘然*_^。
   email_md5: 605a7fa05602b87b804e3bb51f8ac46f
 
 rss_path: feed.xml
