@@ -12,7 +12,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 世情如霜
+      title: 浅唱低吟
 
 description: a persional blog, about persional writing.
 # gavatar头像及Favicon
@@ -26,7 +26,7 @@ author:
   twitter: sha_moon_t
   pinterest: shamoon-cn
   linkedin: shamoon-cn
-  bio: 了了断圆了谎莫道当时已惘然*_^。
+  bio: 陌上花开，可缓缓归矣。忍把浮名，都换了低吟浅唱。
   email_md5: 605a7fa05602b87b804e3bb51f8ac46f
 
 rss_path: feed.xml
